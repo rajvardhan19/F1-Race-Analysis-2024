@@ -1,10 +1,11 @@
-# Race: Abu Dhabi GP
-### Date: 26 Nov 2023
+# Race: Bahrain GP
+### Date: 02 March 2024
 
 
 ![Home](./assets/stock.png)
 
-Track: Yas Marina Circuit
+Track: The Bahrain International Circuit
+
 ![Track](./assets/track.png)
 
 Qualifying To Finish
@@ -29,8 +30,6 @@ Lap Times
 Lap Times
 ![Lap Times](./assets/lap%20times%20line.png)
 
-Driver Standings
-![Driver Standings](/Bahrain%20GP/assets/driverpoints.png)
 
 Constructor Championship Timeline
 ![Constructor Championship Timeline](./assets/constructor%20standing.png)
